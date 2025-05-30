@@ -76,6 +76,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Berikut tampilan utama aplikasi:
 
+<img src="assets/screenshot/ss1.png" alt="Tampilan Aplikasi Utama" width="600" height="400">
 
 ![Tampilan Web Utama](assets/screenshot/ss1.png "Screenshot Tampilan Awal")
 
