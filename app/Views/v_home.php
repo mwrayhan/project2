@@ -84,15 +84,15 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>About</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <h2>Tentang Saya</h2>
+        <p>Seorang mahasiswa IT yang memiliki ketertarikan mendalam pada dunia teknologi dan pemrograman. Di luar kegiatan akademis, saya juga adalah seorang penggemar traveling yang selalu antusias menjelajahi tempat-tempat baru. Perpaduan antara logika pemrograman dan petualangan ini menjadikan saya menjadi individu yang dinamis dan berpikiran terbuka.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/fotoprofil.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>UI/UX Designer &amp; Web Developer.</h2>
@@ -123,51 +123,6 @@
               Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
             </p>
           </div>
-        </div>
-
-      </div>
-
-    </section><!-- /About Section -->
-
-    <!-- Stats Section -->
-    <section id="stats" class="stats section">
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-            <i class="bi bi-emoji-smile"></i>
-            <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Happy Clients</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-            <i class="bi bi-journal-richtext"></i>
-            <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Projects</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-            <i class="bi bi-headset"></i>
-            <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-            <i class="bi bi-people"></i>
-            <div class="stats-item">
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
-            </div>
-          </div><!-- End Stats Item -->
-
         </div>
 
       </div>
@@ -269,41 +224,43 @@
               </ul>
             </div><!-- Edn Resume Item -->
 
-            <h3 class="resume-title">Education</h3>
+            <h3 class="resume-title">Pendidikan</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>SDN Rancajaya</h4>
+              <h5>2007 - 2013</h5>
+              <p><em>Cianjur, Jawa Barat, INA</em></p>
+              <p>Kehidupan SD saya penuh dengan tawa dan kenangan indah bersama teman-teman. Dari bermain kelereng di halaman sekolah hingga belajar bersama di kelas, setiap momen meninggalkan kesan mendalam.</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>SMPN 2 Cianjur</h4>
+              <h5>2013 - 2013</h5>
+              <p><em>Cianjur, Jawa Barat, INA</em></p>
+              <p>Masa Sekolah Menengah Pertama menjadi fase transisi penting dalam hidup saya, di mana saya mulai mengeksplorasi minat lebih dalam dan menghadapi tantangan akademis yang lebih kompleks. </p>
+            </div><!-- Edn Resume Item -->
+
+            <div class="resume-item">
+              <h4>MAN 1 C ianjur</h4>
+              <h5>2016 - 2019</h5>
+              <p><em>Cianjur, Jawa Barat, INA</em></p>
+              <p>Tahun-tahun di Sekolah Menengah Atas menjadi fase pembentukan identitas dan persiapan menuju masa depan. Di sini, saya mengukir berbagai pencapaian akademis dan non-akademis, serta memperluas jaringan pertemanan yang berharga.</p>
             </div><!-- Edn Resume Item -->
 
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-            <h3 class="resume-title">Professional Experience</h3>
+            <h3 class="resume-title">lanjut</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-              </ul>
+              <h4>MAN 1 C ianjur</h4>
+              <h5>2016 - 2019</h5>
+              <p><em>Cianjur, Jawa Barat, INA</em></p>
+              <p>Tahun-tahun di Sekolah Menengah Atas menjadi fase pembentukan identitas dan persiapan menuju masa depan. Di sini, saya mengukir berbagai pencapaian akademis dan non-akademis, serta memperluas jaringan pertemanan yang berharga.</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Universitas Nahdlatul Ulama Indonesia</h4>
+              <h5>2022 - Sekarang</h5>
+              <p><em>Bogor, Jawa Barat, INA</em></p>
               <ul>
                 <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
