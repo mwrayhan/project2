@@ -26,7 +26,7 @@ Proyek ini merupakan pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Web Fr
 * **Konten Portofolio:**
     * Seluruh konten portofolio diisi dengan informasi tentang diri Anda (profil, keahlian, pengalaman, dll.).
 
-### 2. Repository GitHub (30 Poin)
+### 2. Repository GitHub
 
 * **Nama Repository:**
     * Repository GitHub dibuat dengan nama `project2`.
@@ -35,7 +35,7 @@ Proyek ini merupakan pengerjaan Ujian Tengah Semester (UTS) mata kuliah **Web Fr
 
 ---
 
-## Cara Menjalankan Proyek (Opsional - Sangat Direkomendasikan Ditambahkan)
+## Cara Menjalankan Proyek 
 
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
@@ -72,4 +72,32 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 ---
 
-## Struktur Proyek (Opsional - Sangat Direkomendasikan Ditambahkan)
+## Screenshot Hasil
+
+Berikut tampilan utama aplikasi:
+
+![Tampilan Web Utama](assets/screenshots/ss1.png "Screenshot Tampilan Awal")
+
+Tampilan tentang saya:
+
+![Tampilan Tentang Saya](assets/screenshots/ss2.png)
+
+Tampilan skill:
+
+![Tampilan Skill](assets/screenshots/ss3.png)
+
+Tampilan riwayat hidup:
+
+![Tampilan Riwayat Hidup](assets/screenshots/ss4.png)
+
+Tampilan riwayat pendidikan:
+
+![Tampilan Riwayat Pendidikan](assets/screenshots/ss5.png)
+
+Tampilan portofolio proyek:
+
+![Tampilan Portofolio Proyek](assets/screenshots/ss6.png)
+
+Tampilan kontak:
+
+![Tampilan Kontak](assets/screenshots/ss7.png)
