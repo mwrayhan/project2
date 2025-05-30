@@ -76,28 +76,29 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Berikut tampilan utama aplikasi:
 
-![Tampilan Web Utama](assets/screenshots/ss1.png "Screenshot Tampilan Awal")
+
+![Tampilan Web Utama](assets/screenshot/ss1.png "Screenshot Tampilan Awal")
 
 Tampilan tentang saya:
 
-![Tampilan Tentang Saya](assets/screenshots/ss2.png)
+![Tampilan Tentang Saya](assets/screenshot/ss2.png)
 
 Tampilan skill:
 
-![Tampilan Skill](assets/screenshots/ss3.png)
+![Tampilan Skill](assets/screenshot/ss3.png)
 
 Tampilan riwayat hidup:
 
-![Tampilan Riwayat Hidup](assets/screenshots/ss4.png)
+![Tampilan Riwayat Hidup](assets/screenshot/ss4.png)
 
 Tampilan riwayat pendidikan:
 
-![Tampilan Riwayat Pendidikan](assets/screenshots/ss5.png)
+![Tampilan Riwayat Pendidikan](assets/screenshot/ss5.png)
 
 Tampilan portofolio proyek:
 
-![Tampilan Portofolio Proyek](assets/screenshots/ss6.png)
+![Tampilan Portofolio Proyek](assets/screenshot/ss6.png)
 
 Tampilan kontak:
 
-![Tampilan Kontak](assets/screenshots/ss7.png)
+![Tampilan Kontak](assets/screenshot/ss7.png)
