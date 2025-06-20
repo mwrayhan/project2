@@ -8,5 +8,5 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 $routes->get('/about', 'About::index');
 $routes->set404Override(function() {
-    echo view('error/not_found');
-});
+    echo view('errors/not_found');
+});      
